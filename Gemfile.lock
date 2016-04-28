@@ -243,6 +243,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+<<<<<<< HEAD
   jekyll-feed
   jekyll-gist
   jekyll-paginate
@@ -251,3 +252,8 @@ DEPENDENCIES
 
 BUNDLED WITH
    1.16.0
+=======
+
+BUNDLED WITH
+   1.11.2
+>>>>>>> setup of the jekyll template

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Members1stFCU.github.io](http://Members1stFCU.github.io)
 
 This is a blog for developers at Members 1st FCU to log their thoughts, tips, and tricks while working on the coding, build, and deployment of "modern" applications.
@@ -26,3 +27,8 @@ gem install jekyll bundler
 ### Windows
 
 [Jekyll on Windows](https://jekyllrb.com/docs/windows/)
+=======
+#Members 1st FCU Technical Blog
+
+ - If you would like to submit a post to this blog submit a pull request.
+>>>>>>> created the base post of hello world

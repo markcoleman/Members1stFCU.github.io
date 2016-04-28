@@ -3,6 +3,7 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
+<<<<<<< HEAD
 # `jekyll serve`. If you change this file, please restart the server process.
 
 minimal_mistakes_skin    : "contrast" # "default", "air", "contrast", "dark", "dirt", "mint", "sunrise"
@@ -156,6 +157,20 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion
+=======
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Members 1st FCU Dev Blog
+email: AppSupport@members1st.org
+description: The Members 1st FCU developer blog.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.members1st.org" # the base hostname & protocol for your site
+twitter_username: Members1stFCU
+github_username:  Members1stFCU
+
+# Build settings
+>>>>>>> created the base post of hello world
 markdown: kramdown
 highlighter: rouge
 lsi: false
